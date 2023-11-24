@@ -1,0 +1,11 @@
+objective-
+store wants to create an annual sales report for 2022.so that ,they can understand their customers and grow more sales in 2023
+sample questions-
+compare the sales and orders using single chart
+which moth got the highest sales and orders
+who purchases more -men or women in 2022
+what are different order status in 2022
+list top 10 states contributing to the sales
+relation b/w age and gender based on no of orders
+which channel is contributing to max sales
+highest selling category
